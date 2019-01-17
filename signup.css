@@ -1,0 +1,48 @@
+.main-form {
+    width: 400px;
+    margin: auto;
+    padding-top: 5%;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.main-form:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1485470733090-0aae1788d5af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+    color: whitesmoke;
+}
+
+.boy {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.girl {
+    width: 600px;
+    margin: auto;
+    padding-top: 7%;
+}
+
+.child {
+    width: 500px;
+    margin: auto;
+    padding-top: 5%;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
+.it {
+    background-image: url(https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Faster One', cursive;
+}
+
+.man {
+    background-image: url(https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
